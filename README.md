@@ -1,1 +1,3 @@
 - love kawaii future bass edm genere musics...
+- made DSL(Domain Specific Language) for Minecraft server plugin with R&D => waste fucking time 
+- working on my own game with js PixiJS framework 
