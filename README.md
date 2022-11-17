@@ -1,3 +1,5 @@
+**마인크래프트 미니게임 개발 로드맵**
+
 ## [FreedyMinigameMaker](https://freedyplugins.github.io/FreedyPlugins/fmg/FreedyMinigameMakerWiki)
 `기간: 2020.5.18 ~ 2021.3.9`
 마인크래프트 미니게임 개발을 위한 Yaml 기반의 스크립트 언어, 스크립트 자체에서 함수개념과 strategy pattern, template method pattern을 지원함. Command(유사 Bash) Query(${variable}) API 를 Event-EventListener(Publish–subscribe pattern)로 구현함 
